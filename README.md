@@ -192,3 +192,4 @@ js programme that connects between client, server and database.  
 The later
 feature of httpServer is achieved through express, bodyParser functions.
 
+NB: The httpServer.js is used for the quiz app while the httpServer.js is used for setting the questions.
